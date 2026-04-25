@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="footer-container">
         <h2 className="footer-logo">URBAN THREADS</h2>
         <p className="footer-copy">
-          &copy; {currentYear} Urban Threads. Todos los derechos reservados.
+          &copy; {currentYear} Urban Threads. Todos los derechos reservados. Diseñado por [Andres Ruiz].
         </p>
       </div>
     </footer>
