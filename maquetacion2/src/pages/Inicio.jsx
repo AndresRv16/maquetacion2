@@ -14,11 +14,11 @@ const Inicio = () => {
           </h2>
 
           <p className="hero-subtitle">
-            Descubre nuestra colección exclusiva de ropa urbana minimalista
+            Descubre nuestra colección exclusiva de ropa urbana minimalista para los usuarios más exigentes. Diseños únicos, calidad premium y estilo inconfundible.
           </p>
 
           <Link to="/products" className="btn-primary">
-            EXPLORAR COLECCIÓN
+            EXPLORAR COLECCIÓN, de nuesra colección
           </Link>
 
         </div>
