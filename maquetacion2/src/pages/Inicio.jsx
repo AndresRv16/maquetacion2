@@ -36,7 +36,7 @@ const Inicio = () => {
           />
           <FeatureItem 
             title="ENVÍO RÁPIDO" 
-            text="Entrega express en 24-48 horas." 
+            text="Entrega express en 24-48 hours." 
           />
         </div>
       </section>
