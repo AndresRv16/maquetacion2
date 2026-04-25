@@ -16,7 +16,7 @@ const Contacto = () => {
   return (
     <section className="contact-section">
       <div className="contact-container">
-        <h2 className="contact-title">ENVÍANOS UN MENSAJE</h2>
+        <h2 className="contact-title">ENVÍANOS UN NUEVO MENSAJE</h2>
         <form onSubmit={handleSubmit} className="contact-form">
           <div className="form-group">
             <input 

@@ -2,7 +2,7 @@ const Products = () => {
   const products = [
     { id: 1, name: "Camiseta Básica Urban", desc: "Algodón 100% orgánico" },
     { id: 2, name: "Jeans Slim Fit", desc: "Denim premium stretch" },
-    { id: 3, name: "Sudadera Oversize", desc: "Algodón French Terry" },
+    { id: 3, name: "Sudadea Oversize", desc: "Algodón French Terry" },
     { id: 4, name: "Chaqueta Bomber", desc: "Nylon resistente al agua" }
   ];
 
